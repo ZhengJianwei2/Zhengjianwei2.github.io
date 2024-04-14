@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Honghui Xu | ZJUT"
-description              : "Post-Doctoral in ZJUT. Focusing on image processing, tensor learning, and fast algorithm."
-repository               : "xuhonghui96/xuhonghui96.github.io"
+title                    : "Jianwei Zheng | ZJUT"
+description              : "Professor in ZJUT. Focusing on image processing, tensor learning, and fast algorithm."
+repository               : "Zhengjianwei2/Zhengjianwei2.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Honghui Xu (徐宏辉)"
+  name             : "Jianwei Zheng (徐宏辉)"
   avatar           : "images/xhh.jpg"
   bio              : "Zhejiang University of Technology"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=_cZgJawAAAAJ&hl=zh-CN&oi=sra"
-  email            : "xhh@zjut.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Honghui-Xu-3"
+  googlescholar    : "https://scholar.google.com/citations?user=X0wntOEAAAAJ&hl=zh-CN&oi=sra"
+  email            : "zjw@zjut.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Jianwei-Zheng-5"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xuhonghui96"
+  github           : "Zhengjianwei2"
   google_plus      :
   keybase          :
   instagram        :
