@@ -106,20 +106,12 @@ Jiawei Jiang, Yuchao Feng, <b>Honghui Xu</b>, Guojiang Shen, Jianwei Zheng\* <br
 Jianwei Zheng, Mengjie Qin, <b>Honghui Xu</b>, Yuchao Feng, Peijun Chen\*, Shengyong Chen <br>
 *Engineering Applications of Artificial Intelligence*, 2021. [[Pdf](https://www.sciencedirect.com/science/article/pii/S0952197621003201)]
 
-# 📖 Educations
-- *2018.09 - 2023.06*: &nbsp; Ph.D., Zhejiang University of Technology, Hangzhou
-- *2014.09 - 2018.06*: &nbsp; B.S., Zhejiang University of Technology, Hangzhou
-
-# 🏆 Awards and Honors
-- National Scholarship for Ph. D. student (博士研究生国家奖学金), ZJUT, 2021
-- Excellent Graduate in Zhejiang (浙江省优秀毕业生), ZJUT, 2023
-- First-Class Academic Scholarship (学业一等奖学金), ZJUT, 2020-2022
-
 
 
 # 🌐 Academic Activities
 
 ## Reviewer
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - IEEE Transactions on Image Processing (IEEE TIP)
 - IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
 - Applied Mathematical Modeling
