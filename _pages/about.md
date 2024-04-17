@@ -32,7 +32,6 @@ My research interest includes image processing, tensor learning, and fast algori
 <b>Note</b>: \* indicates the corresponding author. 
 ## 2024
 
-- Multi-scale Feature Polymerizer Aided Coalescing-attention for Object Placement<br>Yibin Wang, Yuchao Feng, **Jianwei Zheng*** <br>*International Joint Conference on Artificial Intelligence* (<b>IJCAI</b>), 2024. (Under Review, CCF A)
 - PGIUN:Physics-Guided Implicit Unrolling Network for Accelerated MRI<br>Jiawei Jiang, Zihan He, Yueqian Quan, Jie Wu, **Jianwei Zheng*** <br> *IEEE Transactions on Computational Imaging*, 2024. (Major Revision, IF 5.4)
 - Multi-Contrast MRI Reconstruction via Information-growth Holistic Unfolding Network <br>Jiacheng Chen, Fei Wu, **Jianwei Zheng*** <br>*IEEE Transactions on Instrumentation & Measurement* (**TIM**), 2024. (IF 5.6)
 
