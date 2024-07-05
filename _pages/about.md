@@ -34,8 +34,8 @@ My research interest includes image processing, tensor learning, and fast algori
 <b>Note</b>: \* indicates the corresponding author. 
 ## 2024
 
-- Decoupled: Competitive Framework for Semi-supervised: Medical Image Segmentation <br>Jiahe Chen,**Jianwei Zheng***, Shen Wang,Jiahe Ying<br>European Conference on Artificial-Intelligence(**ECAI**),2024. (CCF B)
-- PGIUN:Physics-Guided Implicit Unrolling Network for Accelerated MRI <br>Jiawei Jiang, Zihan He, Yueqian Quan, Jie Wu, **Jianwei Zheng*** <br> *IEEE Transactions on Computational Imaging*(**TCI**) ,2024. (IF 5.4)
+- Decoupled: Competitive Framework for Semi-supervised: Medical Image Segmentation <br>Jiahe Chen,**Jianwei Zheng***, Shen Wang,Jiahe Ying<br>European Conference on Artificial-Intelligence(**ECAI**), 2024. (CCF B)
+- PGIUN:Physics-Guided Implicit Unrolling Network for Accelerated MRI <br>Jiawei Jiang, Zihan He, Yueqian Quan, Jie Wu, **Jianwei Zheng*** <br> *IEEE Transactions on Computational Imaging*(**TCI**), 2024. (IF 5.4)
 - Multi-Contrast MRI Reconstruction via Information-growth Holistic Unfolding Network <br>Jiacheng Chen, Fei Wu, **Jianwei Zheng*** <br>*IEEE Transactions on Instrumentation & Measurement* (**TIM**), 2024. (IF 5.6)
 
 - Robust Principal Component Analysis via High-Order self-learning Transform Tensor Nuclear Norm <br>
