@@ -28,8 +28,6 @@ My research interest includes image processing, tensor learning, and fast algori
 - *2024.10*: &nbsp;One paper is accepted by <b>NIPS</b>.
 - *2024.07*: &nbsp;One paper is accepted by <b>ECAI</b>.
 - *2024.06*: &nbsp;One paper is accepted by <b>TCI</b>.
-- *2024.03*: &nbsp;One paper is accepted by <b>ICME</b>.
-- *2024.02*: &nbsp;One paper is accepted by <b>TAI</b>.
 
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author. 
