@@ -35,7 +35,8 @@ My research interest includes image processing, tensor learning, and fast algori
 <b>Note</b>: \* indicates the corresponding author. 
 ## 2024
 
-- Alias-Free Mamba Neural Operator <br>**Jianwei Zheng **, Wei Li, Ni Xu, Junwei Zhu, Xiaoxu Lin, Xiaoqin Zhang*<br>Neural Information Processing Systems(**NIPS**), 2024. (CCF A)
+- Alias-Free Mamba Neural Operator <br>**Jianwei Zheng**, Wei Li, Ni Xu, Junwei Zhu, Xiaoxu Lin, Xiaoqin Zhang*<br>**Neural Information Processing Systems**(**NIPS**), 2024. (CCF A)
+- 
 - Decoupled: Competitive Framework for Semi-supervised: Medical Image Segmentation <br>Jiahe Chen,**Jianwei Zheng***, Shen Wang,Jiahe Ying<br>European Conference on Artificial-Intelligence(**ECAI**), 2024. (CCF B)
 - PGIUN:Physics-Guided Implicit Unrolling Network for Accelerated MRI <br>Jiawei Jiang, Zihan He, Yueqian Quan, Jie Wu, **Jianwei Zheng*** <br> *IEEE Transactions on Computational Imaging*(**TCI**), 2024. (IF 5.4)
 - Multi-Contrast MRI Reconstruction via Information-growth Holistic Unfolding Network <br>Jiacheng Chen, Fei Wu, **Jianwei Zheng*** <br>*IEEE Transactions on Instrumentation & Measurement* (**TIM**), 2024. (IF 5.6)
