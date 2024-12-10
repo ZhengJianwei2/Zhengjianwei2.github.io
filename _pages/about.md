@@ -25,12 +25,16 @@ My research interest includes image processing, tensor learning, and fast algori
 📧 E-mail: <zjw@zjut.edu.cn>; [Google Scholar](https://scholar.google.com/citations?user=X0wntOEAAAAJ&hl=zh-CN&oi=sra)
 
 # 🔔 News
+- *2024.12*: &nbsp;One paper is accepted by <b>AAAI</b>.
+- *2024.12*: &nbsp;One paper is accepted by <b>TGRS</b>.
 - *2024.10*: &nbsp;One paper is accepted by <b>NIPS</b>.
-- *2024.07*: &nbsp;One paper is accepted by <b>ECAI</b>.
-- *2024.06*: &nbsp;One paper is accepted by <b>TCI</b>.
 
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author. 
+## 2025
+
+- Breaking Information Isolation: Accelerating MRI via Inter-sequence Mapping and Progressive Masking <br>**Jianwei Zheng**, Xiaomin Yao, Guojiang Shen, Wei Li, Jiawei Jiang*<br>**AAAI Conference on Artificial Intelligence**(**AAAI**), 2025. (CCF A)
+-  Cascade-Transform-based Tensor Nuclear Norm for Hyperspectral Image Super-Resolution <br>Honghui Xu, Chuangjie Fang, **Jianwei Zheng***, Yilin Ge, Yubin Gu,**Jianwei Zheng**<br>IEEE Transactions on Geoscience and Remote Sensing(**TGRS**), 2025. (CCF A)
 ## 2024
 
 - Alias-Free Mamba Neural Operator <br>**Jianwei Zheng**, Wei Li, Ni Xu, Junwei Zhu, Xiaoxu Lin, Xiaoqin Zhang*<br>**Neural Information Processing Systems**(**NIPS**), 2024. (CCF A)
