@@ -34,7 +34,7 @@ My research interest includes image processing, tensor learning, and fast algori
 ## 2025
 
 - Breaking Information Isolation: Accelerating MRI via Inter-sequence Mapping and Progressive Masking <br>**Jianwei Zheng**, Xiaomin Yao, Guojiang Shen, Wei Li, Jiawei Jiang*<br>**AAAI Conference on Artificial Intelligence**(**AAAI**), 2025. (CCF A)
--  Cascade-Transform-based Tensor Nuclear Norm for Hyperspectral Image Super-Resolution <br>Honghui Xu, Chuangjie Fang, **Jianwei Zheng***, Yilin Ge, Yubin Gu,**Jianwei Zheng**<br>IEEE Transactions on Geoscience and Remote Sensing(**TGRS**), 2025. (CCF A)
+-  Cascade-Transform-based Tensor Nuclear Norm for Hyperspectral Image Super-Resolution <br>Honghui Xu, Chuangjie Fang, Yilin Ge, Yubin Gu, **Jianwei Zheng***<br>IEEE Transactions on Geoscience and Remote Sensing(**TGRS**), 2025. (IF 7.5, CCF B)
 ## 2024
 
 - Alias-Free Mamba Neural Operator <br>**Jianwei Zheng**, Wei Li, Ni Xu, Junwei Zhu, Xiaoxu Lin, Xiaoqin Zhang*<br>**Neural Information Processing Systems**(**NIPS**), 2024. (CCF A)
