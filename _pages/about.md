@@ -25,6 +25,8 @@ My research interest includes image processing, tensor learning, and fast algori
 📧 E-mail: <zjw@zjut.edu.cn>; [Google Scholar](https://scholar.google.com/citations?user=X0wntOEAAAAJ&hl=zh-CN&oi=sra)
 
 # 🔔 News
+- *2025.02*: &nbsp;One paper is accepted by <b>CVPR</b>.
+- *2025.01*: &nbsp;One paper is accepted by <b>TMM</b>.
 - *2024.12*: &nbsp;One paper is accepted by <b>AAAI</b>.
 - *2024.12*: &nbsp;One paper is accepted by <b>TGRS</b>.
 - *2024.10*: &nbsp;One paper is accepted by <b>NIPS</b>.
