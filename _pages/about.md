@@ -36,7 +36,7 @@ My research interest includes image processing, tensor learning, and fast algori
 ## 2025
 
 - LMO: Linear Mamba operator for MRI Reconstruction <br>Wei Li*, Jiawei Jiang*, Jie Wu, Kaihao Yu,  **Jianwei Zheng***<br>**IEEE Conference on Computer Vision and Pattern Recognition**(**CVPR**), 2025. (CCF A)
-- Axial-shunted Spatial-temporal Conversation for Change Detection <br>Yuchao Feng, Mengjie Qin, Jiawei Jiang, Jintao Lai, **Jianwei Zheng***<br>**ACM Transactions on Multimedia Computing Communications and Applications**, 2025. (IF:5.2,CCF B)
+- Axial-shunted Spatial-temporal Conversation for Change Detection <br>Yuchao Feng, Mengjie Qin, Jiawei Jiang, Jintao Lai, **Jianwei Zheng***<br>**ACM Transactions on Multimedia Computing Communications and Applications**(**TOMM**), 2025. (IF:5.2,CCF B)
 - Semantic-Spatial Attention for Refined Object Placement in Text-to-Image Synthesis <br> **Jianwei Zheng**, Ni Xu, Wei Li, Jiawei Jiang, and Xiaoqin Zhang* <br>**IEEE Transactions on Multimedia**(**TMM**), 2025.(IF:8.4, CCF B)
 - Pipeline-Centered Neighboring Network for Deep Unfolding Pansharpening <br> Yan Li, Qiuju Chen, Chuangjie Fang, Ni Xu, Honghui Xu, **Jianwei Zheng*** <br>**International Conference on Acoustics, Speech and Signal Processing**(**ICASSP**), 2025. (CCF B)
 - Breaking Information Isolation: Accelerating MRI via Inter-sequence Mapping and Progressive Masking <br>**Jianwei Zheng**, Xiaomin Yao, Guojiang Shen, Wei Li, Jiawei Jiang*<br>**AAAI Conference on Artificial Intelligence**(**AAAI**), 2025. (CCF A)
