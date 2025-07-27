@@ -25,16 +25,26 @@ My research interest includes image processing, tensor learning, and fast algori
 📧 E-mail: <zjw@zjut.edu.cn>; [Google Scholar](https://scholar.google.com/citations?user=X0wntOEAAAAJ&hl=zh-CN&oi=sra)
 
 # 🔔 News
+
+- *2025.07*: &nbsp;Two papers are accepted by <b>ACMMM</b>.
+- *2025.07*: &nbsp;One papers is accepted by <b>TMM</b>.
+- *2025.07*: &nbsp;One paper is accepted by <b>ICCV</b>.
+- *2025.07*: &nbsp;Three papers are accepted by <b>ECAI</b>.
 - *2025.02*: &nbsp;One paper is accepted by <b>CVPR</b>.
-- *2025.01*: &nbsp;One paper is accepted by <b>TMM</b>.
-- *2024.12*: &nbsp;One paper is accepted by <b>AAAI</b>.
-- *2024.12*: &nbsp;One paper is accepted by <b>TGRS</b>.
-- *2024.10*: &nbsp;One paper is accepted by <b>NIPS</b>.
+
 
 # 📄 Publications 
 <b>Note</b>: \* indicates the corresponding author. 
 ## 2025
-
+- Arbitrary-scale Fusion Operator for High-resolution Hyperspectral Imaging <br>Junwei Zhu, Honghui Xu, Wei Li, Jaiwei Jiang, Zhi Liu,**Jianwei Zheng***<br>**IEEE Transactions on Multimedia**(**TMM**),2025. (IF:9.7, CCF B)
+- SpecSolver: Solving Spatial-Spectral Fusion via Semantic Transformer <br>Wei Li*, Junwei Zhu*, Honghui xu, Jiawei Jiang, **Jianwei Zheng***<br> **ACM Multimedia**(**ACMMM**), 2025. (CCF A)
+- Arbitrary-scale Fusion Neural Operator <br>Junwei Zhu, Wei Li, Honghui Xu, Jiawei Jiang, Zhi Liu*, **Jianwei Zheng***<br> **ACM Multimedia**(**ACMMM**), 2025. (CCF A,Oral)
+- Laboring on Less Labors: RPCA Paradigm for Pan-sharpening <br>Honghui Xu, Chuangjie Fang, Yibin Wang, Jie Wu, **Jianwei Zheng*** <br>**IEEE International Conference on Computer Vision**(**ICCV**),2025. (CCF A)
+- Information-coupled MRI acceleration via Multi-modal Mapping and Progressive Masking <br>.Jiawei Jiang, Jiacheng Chen, Honghui Xu, Yuhang He, **Jianwei Zheng***<br> Pattern Recognition(PR), 2025.(IF: 7.6,CCF B)
+- BioGraphFusion: Graph Knowledge Embedding for Biological Completion and Reasoning<br>Yitong Lin, Jiaying He, Jiahe Chen, Xinnan Zhu, **Jianwei Zheng***, and Tao Bo*<br>Bioinformatics, 2025. (IF: 5.4,  CCF B)
+- Gradient Selection Tuning via Information Bottleneck<br>Xiaoxu Lin, Wei Li, Junwei Zhu, Ni Xu, Honghui Xu and **Jianwei Zheng***<br> European Conference on Artificial Intelligence(ECAI),2025.(CCF B)
+- Controllable Face Inpainting via Pseudo-Style Embedding<br>Jie Wu, Jiawei Jiang, Yueqian Quan, Honghui Xu, Wanjun Chen and **Jianwei Zheng***<br>European Conference on Artificial Intelligence(ECAI),2025.(CCF B)
+- Object-level Control for Refined Structure and Appearance in Conditional Image Synthesis<br>Ni Xu, Wei Li, Zhouchao Fu, Xiaoxu Lin, Wanjun Chen and **Jianwei Zheng***<br>European Conference on Artificial Intelligence(ECAI),2025.(CCF B)
 - LMO: Linear Mamba operator for MRI Reconstruction <br>Wei Li*, Jiawei Jiang*, Jie Wu, Kaihao Yu,  **Jianwei Zheng***<br>**IEEE Conference on Computer Vision and Pattern Recognition**(**CVPR**), 2025. (CCF A)
 - Axial-shunted Spatial-temporal Conversation for Change Detection <br>Yuchao Feng, Mengjie Qin, Jiawei Jiang, Jintao Lai, **Jianwei Zheng***<br>**ACM Transactions on Multimedia Computing Communications and Applications**(**TOMM**), 2025. (IF:5.2,CCF B)
 - Semantic-Spatial Attention for Refined Object Placement in Text-to-Image Synthesis <br> **Jianwei Zheng**, Ni Xu, Wei Li, Jiawei Jiang, and Xiaoqin Zhang* <br>**IEEE Transactions on Multimedia**(**TMM**), 2025.(IF:8.4, CCF B)
