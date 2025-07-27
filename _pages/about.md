@@ -38,7 +38,7 @@ My research interest includes image processing, tensor learning, and fast algori
 ## 2025
 - Arbitrary-scale Fusion Operator for High-resolution Hyperspectral Imaging <br>Junwei Zhu, Honghui Xu, Wei Li, Jaiwei Jiang, Zhi Liu,**Jianwei Zheng***<br>**IEEE Transactions on Multimedia**(**TMM**),2025. (IF:9.7, CCF B)
 - SpecSolver: Solving Spatial-Spectral Fusion via Semantic Transformer <br>Wei Li*, Junwei Zhu*, Honghui xu, Jiawei Jiang, **Jianwei Zheng***<br> **ACM Multimedia**(**ACMMM**), 2025. (CCF A)
-- Arbitrary-scale Fusion Neural Operator <br>Junwei Zhu, Wei Li, Honghui Xu, Jiawei Jiang, Zhi Liu*, **Jianwei Zheng***<br> **ACM Multimedia**(**ACMMM**), 2025. (CCF A,Oral)
+- Arbitrary-scale Fusion Neural Operator <br>Junwei Zhu, Wei Li, Honghui Xu, Jiawei Jiang, Zhi Liu*, **Jianwei Zheng***<br> **ACM Multimedia**(**ACMMM**), 2025. (CCF A,**Oral**)
 - Laboring on Less Labors: RPCA Paradigm for Pan-sharpening <br>Honghui Xu, Chuangjie Fang, Yibin Wang, Jie Wu, **Jianwei Zheng*** <br>**IEEE International Conference on Computer Vision**(**ICCV**),2025. (CCF A)
 - Information-coupled MRI acceleration via Multi-modal Mapping and Progressive Masking <br>.Jiawei Jiang, Jiacheng Chen, Honghui Xu, Yuhang He, **Jianwei Zheng***<br> Pattern Recognition(PR), 2025.(IF: 7.6,CCF B)
 - BioGraphFusion: Graph Knowledge Embedding for Biological Completion and Reasoning<br>Yitong Lin, Jiaying He, Jiahe Chen, Xinnan Zhu, **Jianwei Zheng***, and Tao Bo*<br>Bioinformatics, 2025. (IF: 5.4,  CCF B)
