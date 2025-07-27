@@ -29,7 +29,7 @@ My research interest includes image processing, tensor learning, and fast algori
 - *2025.07*: &nbsp;Two papers are accepted by <b>ACMMM</b>.
 - *2025.07*: &nbsp;One papers is accepted by <b>TMM</b>.
 - *2025.07*: &nbsp;One paper is accepted by <b>ICCV</b>.
-- *2025.07*: &nbsp;Three papers are accepted by <b>ECAI</b>.
+- *2025.07*: &nbsp;Three paper are accepted by <b>ECAI</b>.
 - *2025.02*: &nbsp;One paper is accepted by <b>CVPR</b>.
 
 
